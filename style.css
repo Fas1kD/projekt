@@ -1,3 +1,4 @@
+<!--styl pozadí-->
 body {
   background-color: powderblue;
 }
@@ -8,6 +9,7 @@ h1 {
   border: 2px solid black;
   background-color: whitesmoke;
 
+  <!-- tabulka-->
 }
 table, th, td {
   border:1px solid black;
@@ -23,6 +25,7 @@ tr:nth-child(odd) {
   background-color: #FFFFFF;
 }
 
+<!--pismo-->
 p{
   border: 2px solid black;
   background-color: whitesmoke;
@@ -30,6 +33,7 @@ p{
   text-align: center;
 }
 
+<!--obrazek-->
 .center {
   display: block;
   margin-left: auto;
