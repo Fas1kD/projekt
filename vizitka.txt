@@ -1,1 +1,3 @@
-https://www.linkedin.com/in/dominik-fasora-55601a295/
+linkid: https://www.linkedin.com/in/dominik-fasora-55601a295/
+
+stranka: https://fas1kd.github.io/projekt.github.io/
