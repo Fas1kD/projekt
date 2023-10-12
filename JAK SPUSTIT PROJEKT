@@ -3,4 +3,9 @@
 Kde najdu EXCEL tabulku?
   1. V repozitáži zvaném "Fas1kD/projekt.github.io" klikněte na soubor "tabulka rizik.xlsx".
   2. Jste přesměrován na část s názvem "projekt.github.io/tabulka rizik.xlsx" kde se nachází EXCEL tabulka.
-  3. 
+  3. V čáasti klikněte na "View raw" nebo na "dowland raw file", soubor s tabulkou se vám stáhne do vašeho počítače.
+  4. Poté jen najdete místo kam se vám soubor uložil a otevřete, měla by se vám otevřít EXCEL tabulka s Bezpečnostními riziky pro webové aplikace.
+
+Jak spustit webovou stránku?
+  1 V repozitáži zvaném "Fas1kD/projekt.github.io" klikněte na soubor "stranka_odkaz".
+  2 Měl by se vám zobrazit odkaz "https://fas1kd.github.io/projekt.github.io/"
