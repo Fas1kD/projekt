@@ -1,7 +1,7 @@
 # projekt
 html excel projekt
 
-Nejtežší bylo si vzpomenout si na programovací jazyk html.
+Nejtežší bylo vzpomenout si na programovací jazyk html.
 Nejsnadnější bylo vytvořit excel tabulku.
 
-Podrobný popis "JAK SPUSTIT PROJEKT"
+Podrobný popis "JAK SPUSTIT PROJEKT" (stránka funguje přes github pages)
