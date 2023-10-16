@@ -7,5 +7,3 @@ Nejsnadnější bylo vytvořit excel tabulku.
 Odkaz na stránku: https://fas1kd.github.io/projekt.github.io/
 
 Podrobný popis "JAK SPUSTIT PROJEKT" 
-
-(stránka funguje přes github pages)
